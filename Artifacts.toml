@@ -1,143 +1,151 @@
 [[Pango]]
 arch = "aarch64"
-git-tree-sha1 = "11e3f8f6ec684a7b002271b55bbe69b4c4bac58b"
+git-tree-sha1 = "b90cab075cae8811db11d9199e4f9edde9dba672"
 os = "macos"
 
     [[Pango.download]]
-    sha256 = "19ac575011002215f2661d7e9fad6145c5bd1cf3d1b81001fef11040f6506cf2"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "94d6deb60e409a7dc648b9c5fe48aeba6bc98b5d14963ae474d8afdce7af329a"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.aarch64-apple-darwin.tar.gz"
 [[Pango]]
 arch = "aarch64"
-git-tree-sha1 = "135e397b91391659f17b6541ddc22ad8a8201982"
+git-tree-sha1 = "424d938458ad348beaf796898ab30f0f3c184ecd"
 libc = "glibc"
 os = "linux"
 
     [[Pango.download]]
-    sha256 = "dc8e907d3188d5e4597f5496808ad667cdcb87282c9550b41da8f4337ed3cbe7"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "62af8273ace4fb41b1adc69cd3b1432028f13a339bad5ba33a18fe4bafd5637f"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.aarch64-linux-gnu.tar.gz"
 [[Pango]]
 arch = "aarch64"
-git-tree-sha1 = "cd29071c1f476012df19b65f1654ab1d8f822ac3"
+git-tree-sha1 = "1600a5c9df32d4a8b3be9f57bb74bfa8de730ea5"
 libc = "musl"
 os = "linux"
 
     [[Pango.download]]
-    sha256 = "6e481ed8224de83b235954fee963a9544f9fd57bf5026222ce6fa48776b70061"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.aarch64-linux-musl.tar.gz"
+    sha256 = "c8bb793bcd2cb03fa7c0a0e2a03c0c15688797c9670ed08b800e788b5fcf086e"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.aarch64-linux-musl.tar.gz"
 [[Pango]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "c5d76757af7dec379685e6fa6465fb25eb9b5e4c"
-libc = "glibc"
-os = "linux"
-
-    [[Pango.download]]
-    sha256 = "61b3a9f961c5ddcc447e3666d9a627d1ad5690d8193362e82a4a1ea857419676"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.armv6l-linux-gnueabihf.tar.gz"
-[[Pango]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "26cd1d6a0542ec45069514a007927a7ac5d82fce"
-libc = "musl"
-os = "linux"
-
-    [[Pango.download]]
-    sha256 = "e3a893b65664a346057225a4c7e51e93fcde62a50b9777bbb23881874c6e7a7c"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.armv6l-linux-musleabihf.tar.gz"
-[[Pango]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "db71b3dc866b2f15bdf860a04ef3f3c37d2349c3"
-libc = "glibc"
-os = "linux"
-
-    [[Pango.download]]
-    sha256 = "55c3f04b76916d84c360968a3d5dc2f94b6f2d81dbe67befb0ab845479bfa0cd"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.armv7l-linux-gnueabihf.tar.gz"
-[[Pango]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "9cdd1824785d293d8b9a1b1284d9f34b8eb5bfca"
-libc = "musl"
-os = "linux"
-
-    [[Pango.download]]
-    sha256 = "468f7e65e6c44eb7ffc5648858ae5bae7f128965445e3c6bb20126591b482c79"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.armv7l-linux-musleabihf.tar.gz"
-[[Pango]]
-arch = "i686"
-git-tree-sha1 = "ac090e85bb3c4aa8df4f9a816aaad8a34dae8f4b"
-libc = "glibc"
-os = "linux"
-
-    [[Pango.download]]
-    sha256 = "1c87cdfd10557507c83fd09c822e5e475a4f2812af10c9b0045daffa6320102b"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.i686-linux-gnu.tar.gz"
-[[Pango]]
-arch = "i686"
-git-tree-sha1 = "94b56b4026e9cfa7a15fd566d043e5dc12fd2893"
-libc = "musl"
-os = "linux"
-
-    [[Pango.download]]
-    sha256 = "5b094ce88ed1945f1e9f8c5aa523632533dd46422e85eddacf24935234877b77"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.i686-linux-musl.tar.gz"
-[[Pango]]
-arch = "i686"
-git-tree-sha1 = "0cd5fb4b00f593db303269748e3baa819fd00beb"
-os = "windows"
-
-    [[Pango.download]]
-    sha256 = "a4573635a5f56a950682d9ae77b6c04024be2e0dc7b3aebf67a0304c3d84601e"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.i686-w64-mingw32.tar.gz"
-[[Pango]]
-arch = "powerpc64le"
-git-tree-sha1 = "9cb2e92dcc8909020dbe396cba76f70d3d1b984a"
-libc = "glibc"
-os = "linux"
-
-    [[Pango.download]]
-    sha256 = "415cd46e37c98c6737d33ef438851fae2cbe290c5e5ad0caf6c3127fe24096c5"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.powerpc64le-linux-gnu.tar.gz"
-[[Pango]]
-arch = "x86_64"
-git-tree-sha1 = "3b46472ea783ca68e5bc23ae9130377ccedfdb34"
-os = "macos"
-
-    [[Pango.download]]
-    sha256 = "f73fd72bee9c5aa8e451c0cd9fb56ce0009e6b10ac70a700460742edb9c2c3f9"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.x86_64-apple-darwin.tar.gz"
-[[Pango]]
-arch = "x86_64"
-git-tree-sha1 = "136b88dafbb4b6b7bfa6d4cff225f7d697015bd1"
-libc = "glibc"
-os = "linux"
-
-    [[Pango.download]]
-    sha256 = "041e80a54390331f739d7a3685d5991eebbf89fa94cc301452573e5d873e16d4"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.x86_64-linux-gnu.tar.gz"
-[[Pango]]
-arch = "x86_64"
-git-tree-sha1 = "88fefeb4b0b7a4c73b5e9834a8c0bb9ad25aafad"
-libc = "musl"
-os = "linux"
-
-    [[Pango.download]]
-    sha256 = "9c51830f0c65c9877e4125c32f446c30b2b4b825b74a17cf64ed6bbeaae95917"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.x86_64-linux-musl.tar.gz"
-[[Pango]]
-arch = "x86_64"
-git-tree-sha1 = "147232ac837ff226b4fef7936e013176b6a97b51"
+arch = "aarch64"
+git-tree-sha1 = "42e1fda8ab1de3e2e7b64c3e5fb16b4bf18fc310"
 os = "freebsd"
 
     [[Pango.download]]
-    sha256 = "4a9b7997f960e360caf786f936fc1ebbb2d1edefc08105a436cc2765d5dd780d"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "55995253c650ff0d6535d336f5ecc3e906e03bd96e3a5ea08c1f3b5a594864c8"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.aarch64-unknown-freebsd.tar.gz"
 [[Pango]]
-arch = "x86_64"
-git-tree-sha1 = "b99e391afc763a21997048e0fb709f3e3e30c7bb"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7548e0e50dad18112a13efdbfc687a8892b566de"
+libc = "glibc"
+os = "linux"
+
+    [[Pango.download]]
+    sha256 = "6545928553eedc2d1b8c9abeebd5aae856d8231503dbe6f4fb2f5c2b02d804cc"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.armv6l-linux-gnueabihf.tar.gz"
+[[Pango]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "5f05ca11b51a605d74614b4d18762828298133de"
+libc = "musl"
+os = "linux"
+
+    [[Pango.download]]
+    sha256 = "c6518f9b731f075ea6ec4d52aa5d20b41181ab73a0746dffece6426e97639dd0"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.armv6l-linux-musleabihf.tar.gz"
+[[Pango]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "502fc03594517e47b76350833780b93c19c71ce7"
+libc = "glibc"
+os = "linux"
+
+    [[Pango.download]]
+    sha256 = "fc8c5300487a71312696a0358095879442f5ddbf6a7d945d7b0af3fc3ce0b79c"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.armv7l-linux-gnueabihf.tar.gz"
+[[Pango]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "46d6825e077adaf65e85037288ea383744f68f0c"
+libc = "musl"
+os = "linux"
+
+    [[Pango.download]]
+    sha256 = "07ff83c35e47125143d1f096369135d19cf3c485d35943203cd79574a5b1ea63"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.armv7l-linux-musleabihf.tar.gz"
+[[Pango]]
+arch = "i686"
+git-tree-sha1 = "de40a4791ac9f84e4646544cbbc6a70042f40334"
+libc = "glibc"
+os = "linux"
+
+    [[Pango.download]]
+    sha256 = "18d114348f24b7c8b70859c1f5acebbcdd1d67eafdeea44ddc98e1e3e1e7aca1"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.i686-linux-gnu.tar.gz"
+[[Pango]]
+arch = "i686"
+git-tree-sha1 = "2f61f233ff2e2e0e4cc9843663b5d06fd7823400"
+libc = "musl"
+os = "linux"
+
+    [[Pango.download]]
+    sha256 = "3b4ba8dfb6dee9d5c09eb676fae1086188918c58065f63864445fa28e77f01b2"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.i686-linux-musl.tar.gz"
+[[Pango]]
+arch = "i686"
+git-tree-sha1 = "72326821a6a96b689c68f9eee70db5f6619cfacf"
 os = "windows"
 
     [[Pango.download]]
-    sha256 = "083ff95438a92c70501566d8a49ec21fd65dd33d4dedda5ddb26583396637a5a"
-    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.54.1+0/Pango.v1.54.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "b6e9d88b8efbc47bb7b54f4f2556872f2c7660d21415601218f5f81b91954686"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.i686-w64-mingw32.tar.gz"
+[[Pango]]
+arch = "powerpc64le"
+git-tree-sha1 = "ce964c66312c084a17cc34f399c89ae91d3646b1"
+libc = "glibc"
+os = "linux"
+
+    [[Pango.download]]
+    sha256 = "2d3bc87117b767e282ee6f46b2babe3ae7f306d686c8e8414d612fa7a1d5b4ac"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.powerpc64le-linux-gnu.tar.gz"
+[[Pango]]
+arch = "x86_64"
+git-tree-sha1 = "c1697f525f536cc9d3059f7862061fb481c33eeb"
+os = "macos"
+
+    [[Pango.download]]
+    sha256 = "078b7f2f68d4691da2417c41e583ad7a35f60771aefd5e5ba93326daa38d9c4c"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.x86_64-apple-darwin.tar.gz"
+[[Pango]]
+arch = "x86_64"
+git-tree-sha1 = "a58c60683d9991d236f2a2d707edcc09974ca62b"
+libc = "glibc"
+os = "linux"
+
+    [[Pango.download]]
+    sha256 = "af226548075aeba1c8f93b6c189e370354325f6844cf65c599fb2ef985afd637"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.x86_64-linux-gnu.tar.gz"
+[[Pango]]
+arch = "x86_64"
+git-tree-sha1 = "d18b428b0fc37c5f46bc56ca828dbfbc52d068c4"
+libc = "musl"
+os = "linux"
+
+    [[Pango.download]]
+    sha256 = "eb2a51690200a7e046d2872f2c458a71df87cd0f43612bb6d4a203aa7e3a15df"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.x86_64-linux-musl.tar.gz"
+[[Pango]]
+arch = "x86_64"
+git-tree-sha1 = "194337e5985396210fe3c5575a7ae20ff89b7054"
+os = "freebsd"
+
+    [[Pango.download]]
+    sha256 = "112208b819b8d35bd478ac23176b68d9e3c5e0cd52923f2d163d2fd875357181"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.x86_64-unknown-freebsd.tar.gz"
+[[Pango]]
+arch = "x86_64"
+git-tree-sha1 = "fbb95da76deda836c46f8861f94cdedd22aeb054"
+os = "windows"
+
+    [[Pango.download]]
+    sha256 = "d7584f7427fbd554bfdf61790172e2e669633af54ac91b1e52f1b6fe654a9dda"
+    url = "https://github.com/JuliaBinaryWrappers/Pango_jll.jl/releases/download/Pango-v1.55.5+0/Pango.v1.55.5.x86_64-w64-mingw32.tar.gz"
