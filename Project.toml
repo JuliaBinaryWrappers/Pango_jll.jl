@@ -1,6 +1,6 @@
 name = "Pango_jll"
 uuid = "36c8627f-9965-5494-a995-c6b170f724f3"
-version = "1.55.5+0"
+version = "1.56.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -14,7 +14,7 @@ FriBidi_jll = "559328eb-81f9-559d-9380-de523a88c83c"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
 Cairo_jll = "1.18.2"
 FreeType2_jll = "2.13.3"
